@@ -30,7 +30,7 @@
   <artifactId>hbase-annotations</artifactId>
   <name>Apache HBase - Annotations</name>
   <description>Copy of Hadoop's annotations for HBase</description>
-
+    
   <profiles>
     <profile>
       <id>build-with-jdk7</id>
